@@ -21,6 +21,11 @@ author: DoHyeon Jeon
 
 navbar-links:
   About Me: "aboutme"
+  Category:
+    - TroubleShooting: "/category/troubleshooting"
+    - Study: "/category/study"
+  # --- Navigation bar options --- #
+
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
