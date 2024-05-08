@@ -12,7 +12,6 @@ author: DoHyeon Jeon
 ---
 
 ### Why? 갑작스런 생산성 관리
-
 이 작업을 시작하게 된 계기는 내 실질 워킹 타임 & 편한 일정 관리 프로그램이 필요했다.  
 
 이전에는 Obsidian 을 주로 사용하고, Obsidian Plugin 을 통합하여 사용해왔다.  
