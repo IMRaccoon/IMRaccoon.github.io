@@ -5,7 +5,7 @@ subtitle: 생산성을 위한 시간관리
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
-tags: [personal, management, productivity]
+tags: [personal]
 comments: true
 social-share: false
 author: DoHyeon Jeon
