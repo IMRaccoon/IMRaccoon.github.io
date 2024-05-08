@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Managing Productivity
+title: Productivity Management
 subtitle: 생산성을 위한 시간관리
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
-tags: [personal]
+tags: [personal, productivity]
 comments: true
 social-share: false
 author: DoHyeon Jeon
