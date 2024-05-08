@@ -6,8 +6,6 @@ subtitle: 생산성을 위한 시간관리
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [personal, productivity]
-comments: true
-social-share: false
 author: DoHyeon Jeon
 ---
 
